@@ -12,4 +12,4 @@ python main.py
 
 ## Tutorial
 
-For more about the implementaion, please see [Main.ipynb](Main.ipynb] the detailed tutorial.
+For more about the implementaion, please see [Main.ipynb](Main.ipynb) the detailed tutorial.
