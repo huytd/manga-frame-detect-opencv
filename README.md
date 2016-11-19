@@ -12,4 +12,4 @@ python main.py
 
 ## Tutorial
 
-For more about the implementaion, please see [Main.ipynb](Main.ipynb) the detailed tutorial.
+For more about the implementaion, please see [Main.ipynb](https://github.com/huytd/manga-frame-detect-opencv/blob/master/Manga.ipynb) the detailed tutorial.
